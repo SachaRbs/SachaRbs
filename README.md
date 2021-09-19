@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data sciesne/ML/DL/math
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on everything that look interesting !
-- 📫 How to reach me bt mail at sarobber@student.42.fr
+- 📫 reach me by mail at sarobber@student.42.fr
